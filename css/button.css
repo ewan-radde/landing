@@ -1,0 +1,14 @@
+.btn-green {
+	background-color: #069E2D;
+	padding: 15px 20px;
+	border-radius: 10px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+}
+
+.btn-green:hover {
+	background-color: #285238;
+}
+
